@@ -1,6 +1,6 @@
 from typing import List
 import hashlib
-from joblib import Parallel, delayed
+# from joblib import Parallel, delayed
 
 hashkey: str = "bgvyzdsv"
 

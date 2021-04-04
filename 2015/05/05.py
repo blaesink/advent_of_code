@@ -1,7 +1,7 @@
 import sys
 sys.path.append("../../../")
 
-from aoc.utils.utils import get_input_lines
+from advent_of_code.utils.utils import get_input_lines
 
 INPUT = get_input_lines()
 INPUT = [x.rstrip() for x in INPUT]

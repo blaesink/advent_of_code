@@ -2,7 +2,7 @@ from typing import List, Tuple, Set
 import sys
 sys.path.append("../../..")
 
-from aoc.utils.utils import *
+from advent_of_code.utils.utils import *
 from itertools import permutations
 
 # Clean up the input into ints

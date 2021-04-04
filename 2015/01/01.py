@@ -1,7 +1,7 @@
 import sys
 sys.path.append("../../..")
 
-from aoc.utils.utils import get_input
+from advent_of_code.utils.utils import get_input
 
 file = get_input()
 
